@@ -1,0 +1,10 @@
+C:\Users\turel\source\repos\encrypted_data\encrypted_data\bin\Debug\encrypted_data.exe.config
+C:\Users\turel\source\repos\encrypted_data\encrypted_data\bin\Debug\encrypted_data.exe
+C:\Users\turel\source\repos\encrypted_data\encrypted_data\bin\Debug\encrypted_data.pdb
+C:\Users\turel\source\repos\encrypted_data\encrypted_data\obj\Debug\encrypted_data.csproj.AssemblyReference.cache
+C:\Users\turel\source\repos\encrypted_data\encrypted_data\obj\Debug\encrypted_data.Form1.resources
+C:\Users\turel\source\repos\encrypted_data\encrypted_data\obj\Debug\encrypted_data.Properties.Resources.resources
+C:\Users\turel\source\repos\encrypted_data\encrypted_data\obj\Debug\encrypted_data.csproj.GenerateResource.cache
+C:\Users\turel\source\repos\encrypted_data\encrypted_data\obj\Debug\encrypted_data.csproj.CoreCompileInputs.cache
+C:\Users\turel\source\repos\encrypted_data\encrypted_data\obj\Debug\encrypted_data.exe
+C:\Users\turel\source\repos\encrypted_data\encrypted_data\obj\Debug\encrypted_data.pdb
